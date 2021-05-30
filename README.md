@@ -14,3 +14,5 @@ With PyPoll I got ideas from Geeksofgeek website to find the winner
 
 The issue with PyPoll is, my code is longer as I believe there is a shorter approach to produce the output
 
+As the Resources for election_data is big therefore I couldn't upload it to repository
+
