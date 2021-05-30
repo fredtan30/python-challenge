@@ -9,3 +9,8 @@ This homework is going to test our skill in CSV reader to read the file from eac
 In PyBank challenges occured in returning the correct value based on homework output shown
 
 In order to understand get the correct value a lot of print coding was used to ensure the correct output is shown
+
+With PyPoll I got ideas from Geeksofgeek website to find the winner
+
+The issue with PyPoll is, my code is longer as I believe there is a shorter approach to produce the output
+
